@@ -1,0 +1,17 @@
+.YoutubeStreamer.window{	
+	display:none;
+	color:#fff;
+	background:#333;
+	padding:10px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	position:fixed;
+	top:10px;
+	left:10px;
+	z-index:2999999999;
+}
+
+.YoutubeStreamer.title{
+	text-align:left;
+}
